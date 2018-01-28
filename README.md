@@ -1,4 +1,4 @@
-# VapeMoshi Mobile Chat App
+#Mobile Chat App
 
 ## To build the react-native project follow below steps:
 
