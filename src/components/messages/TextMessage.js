@@ -51,6 +51,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#4F86ED',
     maxWidth: Dimensions.get('window').width*70/100,
     width:'auto',
+    overflow: "hidden"
   },
   userMessage: {
     backgroundColor: "#70B7D4",
@@ -62,6 +63,7 @@ const styles = StyleSheet.create({
     marginBottom:5,
     maxWidth: Dimensions.get('window').width*70/100,
     width:'auto',
+    overflow: "hidden"
   },
   text: {
     color: "white",
@@ -76,7 +78,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#70B7D4', 
     paddingTop:2, 
     paddingLeft:2,
-    marginTop:20
+    marginTop:20,
+    overflow: "hidden"
   }
 });
 
